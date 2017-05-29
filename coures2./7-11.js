@@ -28,3 +28,33 @@ turnLeft(90);
 moveForward(25);
 
 
+penColour('#ffff00');
+moveForward(25);penColour('#ffff00');
+moveForward(25);
+turnLeft(90);
+moveForward(25);
+turnLeft(90);
+moveForward(25);
+for (var count = 0; count < 5; count++) {
+  moveForward();
+}for (var count = 0; count < 4; count++) {
+  moveForward();
+}
+turnRight();
+for (var count2 = 0; count2 < 6; count2++) {
+  moveForward();
+}
+See hintTry againContinue
+
+for (var count = 0; count < 5; count++) {
+  moveForward();
+}
+
+for (var count = 0; count < 4; count++) {
+  moveForward();
+}
+turnRight();
+for (var count2 = 0; count2 < 6; count2++) {
+  moveForward();
+}
+See hintTry againContinue
