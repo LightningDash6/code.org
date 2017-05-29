@@ -21,3 +21,10 @@ turnLeft(90);
 moveForward(100);
 turnLeft(90);
 moveForward(100);
+
+penColour('#ffff00');
+moveForward(25);
+turnLeft(90);
+moveForward(25);
+
+
