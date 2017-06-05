@@ -74,3 +74,12 @@ for (var count3 = 0; count3 < 2; count3++) {
   moveForward();
 }
 
+for (var count = 0; count < 5; count++) {
+  moveForward();
+  turnRight();
+  moveForward();
+  turnLeft();
+
+
+
+
