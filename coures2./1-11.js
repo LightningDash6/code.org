@@ -28,6 +28,8 @@ turnLeft(90);
 moveForward(25);
 
 
+
+
 penColour('#ffff00');
 moveForward(25);penColour('#ffff00');
 moveForward(25);
@@ -79,6 +81,22 @@ for (var count = 0; count < 5; count++) {
   turnRight();
   moveForward();
   turnLeft();
+for (var count = 0; count < 3; count++) {
+  moveForward();
+}
+turnRight();
+for (var count2 = 0; count2 < 3; count2++) {
+  moveForward();
+}
+turnRight();
+for (var count3 = 0; count3 < 3; count3++) {
+  moveForward();
+}
+Try again
+Continue
+
+Did you like this puzzle?
+  
 
 
 
