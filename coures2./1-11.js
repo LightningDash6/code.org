@@ -207,3 +207,17 @@ for (var count = 0; count < 400; count++) {
   moveBackward(100);
   turnRight(1);
 }
+
+
+
+
+
+for (var count = 0; count < 8; count++) {
+  moveForward(100);
+  turnRight(45);
+}
+
+
+
+
+
