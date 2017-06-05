@@ -155,7 +155,17 @@ for (var count = 0; count < 2; count++) {
 }
 turnLeft();
 for (var count2 = 0; count2 < 2; count2++) {
-  moveForward();
+for (var count = 0; count < 4; count++) {
+  turnRight(45);
+  moveForward(50);
+  turnLeft(90);
+  moveForward(50);
+  turnRight(45);
+  moveForward(50);
+  turnLeft(90);
+  moveForward(50);
+}
+moveForward();
 }
 
 
