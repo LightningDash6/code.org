@@ -178,5 +178,42 @@ for (var count = 0; count < 4; count++) {
 }
 
 
+penColour(colour_random());
+penColour('#000000');
+for (var count = 0; count < 8; count++) {
+  moveForward(100);
+  moveBackward(100);
+  turnRight(45);
+}
+
+
+
+
+
+
+penColour(colour_random());
+penColour('#000000');
+for (var count = 0; count < 8; count++) {
+  moveForward(100);
+  moveBackward(100);
+  turnRight(45);
+}
+
+
+
+penColour(colour_random());
+for (var count = 0; count < 400; count++) {
+  moveForward(100);
+  moveBackward(100);
+  turnRight(1);
+}
+
+
+
+
+
+
+
+
 
 
