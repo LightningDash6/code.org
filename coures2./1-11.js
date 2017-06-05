@@ -108,6 +108,7 @@ turnLeft();
 for (var count2 = 0; count2 < 5; count2++) {
   moveForward();
 }
+
 turnLeft();
 for (var count3 = 0; count3 < 5; count3++) {
   moveForward();
@@ -158,3 +159,14 @@ for (var count2 = 0; count2 < 2; count2++) {
 
 
 
+
+
+
+penColour('#0000cd');
+moveForward(100);
+turnRight(90);
+moveForward(100);
+turnRight(90);
+moveForward(100);
+turnRight(90);
+moveForward(100);
