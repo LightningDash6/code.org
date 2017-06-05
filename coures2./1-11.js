@@ -30,6 +30,7 @@ moveForward(25);
 
 
 
+
 penColour('#ffff00');
 moveForward(25);penColour('#ffff00');
 moveForward(25);
@@ -96,7 +97,17 @@ Try again
 Continue
 
 Did you like this puzzle?
-  
+  for (var count = 0; count < 5; count++) {
+  moveForward();
+}
+turnLeft();
+for (var count2 = 0; count2 < 5; count2++) {
+  moveForward();
+}
+turnLeft();
+for (var count3 = 0; count3 < 5; count3++) {
+  moveForward();
+
 
 
 
