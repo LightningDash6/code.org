@@ -146,3 +146,15 @@ moveForward();
 turnRight();
 for (var count3 = 0; count3 < 2; count3++) {
   moveForward();
+
+
+for (var count = 0; count < 2; count++) {
+  moveForward();
+}
+turnLeft();
+for (var count2 = 0; count2 < 2; count2++) {
+  moveForward();
+}
+
+
+
