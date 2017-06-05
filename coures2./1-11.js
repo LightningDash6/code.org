@@ -122,6 +122,7 @@ for (var count3 = 0; count3 < 5; count3++) {
 
 
 
+
 for (var count = 0; count < 2; count++) {
   moveForward();
 }
@@ -170,3 +171,12 @@ turnRight(90);
 moveForward(100);
 turnRight(90);
 moveForward(100);
+
+for (var count = 0; count < 4; count++) {
+  moveForward(100);
+  turnRight(90);
+}
+
+
+
+
