@@ -58,3 +58,19 @@ for (var count2 = 0; count2 < 6; count2++) {
   moveForward();
 }
 See hintTry againContinue
+
+
+
+turnRight();
+for (var count = 0; count < 2; count++) {
+  moveForward();
+}
+turnRight();
+for (var count2 = 0; count2 < 2; count2++) {
+  moveForward();
+}
+turnRight();
+for (var count3 = 0; count3 < 2; count3++) {
+  moveForward();
+}
+
