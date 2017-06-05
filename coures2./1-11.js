@@ -49,6 +49,10 @@ for (var count2 = 0; count2 < 6; count2++) {
 }
 See hintTry againContinue
 
+
+
+
+
 for (var count = 0; count < 5; count++) {
   moveForward();
 }
@@ -124,6 +128,21 @@ turnLeft();
 for (var count2 = 0; count2 < 2; count2++) {
   moveForward();
 }
+turnRight();
+for (var count3 = 0; count3 < 2; count3++) {
+  moveForward();
+for (var count = 0; count < 2; count++) {
+  moveForward();
+}
+turnLeft();
+moveForward();
+turnRight();
+for (var count2 = 0; count2 < 1; count2++) {
+  moveForward();
+}
+moveForward();
+turnLeft();
+moveForward();
 turnRight();
 for (var count3 = 0; count3 < 2; count3++) {
   moveForward();
